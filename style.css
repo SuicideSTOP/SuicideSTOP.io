@@ -327,9 +327,12 @@ img {
 }
 
 .logo {
-    padding: 5px;
-    font-size: 32px;
-    letter-spacing: 3px;
+    padding: 0px;
+    font-size: 23px;
+    letter-spacing: 1px;
+    line-height: 30px;
+    text-align: justify;
+    font-weight: 10000;
 }
 
 .navbar-brand:focus, .navbar-brand:hover {
