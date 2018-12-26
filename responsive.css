@@ -28,7 +28,7 @@ NB: This is the responsive stylesheet of this theme.
     }
 
     .navbar-brand {
-        padding: 25px 10;
+        padding: 25px 0;
     }
 
     .navbar-nav li {
